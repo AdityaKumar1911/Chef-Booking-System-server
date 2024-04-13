@@ -8,7 +8,7 @@ const Userdata = require('./models/userData');
 const sendEmail = require('./models/mail');
 const Booking = require('./models/chefbook');
 
-mongoose.connect('mongodb+srv://visheshkumar41:BwnxVrz3tkBnI90T@cluster0.fozhk6m.mongodb.net/Booking-Chef', {
+mongoose.connect('mongodb+srv://dituraj2017:dituraj2017@cluster0.wacxrym.mongodb.net/?retryWrites=true&w=majority&appName=Chef-Booking-System', {
   useNewUrlParser: true,
   useUnifiedTopology: true
 })

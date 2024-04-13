@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const mongoURL = 'mongodb+srv://visheshkumar41:BwnxVrz3tkBnI90T@cluster0.fozhk6m.mongodb.net/Booking-Chef';
+const mongoURL = 'mongodb+srv://dituraj2017:dituraj2017@cluster0.wacxrym.mongodb.net/?retryWrites=true&w=majority&appName=Chef-Booking-System';
 // const mongoURL = 'mongodb://localhost:27017/chefbooking';
 
 mongoose.connect(mongoURL);
